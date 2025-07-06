@@ -4,9 +4,9 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my awesome new blog, powered by Jekyll and GitHub Pages.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://ray-sh.github.io" # the base hostname & protocol for your site
+twitter_username: jekyllrb # Replace with your twitter username
+github_username:  ray-sh # Replace with your github username
 
 # Build settings
 markdown: kramdown
